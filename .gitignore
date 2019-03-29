@@ -107,8 +107,13 @@ https://github.com/joeblau/gitignore.io/issues/186#issuecomment-215987721
 *.tar.gz
 *.rar
 
+<<<<<<< HEAD
 # virtual machine crash logs, see 
 http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
 # End of https://www.gitignore.io/api/java,intellij
+=======
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+>>>>>>> 8180138de6cd9523ce9c96b8d320ff699d2b5181
